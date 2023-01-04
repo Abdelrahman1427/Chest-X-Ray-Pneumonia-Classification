@@ -1,11 +1,11 @@
 # Chest X-Ray (Pneumonia)
 
-the [ DataSet ](https://www.kaggle.com/code/abhiramakrishna/20bd1a6691-chest-x-rayclassification-pneumonia/data) is divided into training, testing and val sets,will combine them and randomly re-divide
+   The [ DataSet ](https://www.kaggle.com/code/abhiramakrishna/20bd1a6691-chest-x-rayclassification-pneumonia/data) is divided into training, testing and val sets,will combine them and randomly re-divide
 
 ## Tasks
-main task is to understand and implement the basic Image Classification
-pipeline that can correctly predict the label of a given image and conduct the
-following experiments:
+   Main task is to understand and implement the basic Image Classification
+   pipeline that can correctly predict the label of a given image and conduct the
+   following experiments:
 
 1. Understand the train/test splits. Even if the dataset is divided into
 training and test sets, combine them both and randomly re-divide them
